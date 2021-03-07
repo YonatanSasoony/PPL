@@ -1,1 +1,1 @@
-# PPL
+# PPL - principle programming language
